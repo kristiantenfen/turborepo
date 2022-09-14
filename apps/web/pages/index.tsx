@@ -4,7 +4,7 @@ export default function Web() {
   return (
     <div>
       <h1>Web branch test</h1>
-      <Button />
+      <Button title="Main" />
     </div>
   );
 }
